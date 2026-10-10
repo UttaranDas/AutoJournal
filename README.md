@@ -1,0 +1,2 @@
+# AutoJournal
+Ai powered journal
